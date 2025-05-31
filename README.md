@@ -1,0 +1,2 @@
+# devops
+to read notes
